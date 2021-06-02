@@ -1,2 +1,5 @@
 # hwLinearReg
-Tarea sobre Regresión Lineal del curso Big DataMétodos Intensivos de Computación Estadística
+
+Tareas sobre:
+1. Regresión Lineal del curso Big DataMétodos Intensivos de Computación Estadística
+2. Aprendiendo MariaDB.
